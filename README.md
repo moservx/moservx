@@ -1,20 +1,37 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8ec153&section=header&text=B7K3&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+<!-- Header minimalista -->
+<h1 align="center" style="color:white;background:black;padding:20px 0;font-size:45px;">Moservx</h1>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+B7K3;18+years+old+%7C+Brazil;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Backend+Focused;Discord+Bot+Creator;Minimal+is+Powerful" alt="Typing SVG" />
 
 ---
 
-### 🚀 Skills
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css" />
+### 🧠 About Me
+
+I'm **Moservx**, a developer who believes in simplicity and clean design.  
+I specialize in backend development and automation — mostly around **Discord bots**, **Node.js**, and **data systems**.
 
 ---
 
-### 📫 Contact Me
+### 🛠️ Tech Stack
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1312240218023264310)](https://discord.com/users/1312240218023264310)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+
+---
+
+### 📡 Live Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1312240218023264310?bg=000000&borderRadius=10px)](https://discord.com/users/1312240218023264310)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8ec153&section=footer" />
+<!-- Footer (optional quote or slogan) -->
+<hr>
+<p align="center" style="color:gray;font-style:italic">
+  "Code less. Create more." – Moservx
+</p>

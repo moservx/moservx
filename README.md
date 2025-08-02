@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1312240218023264310">
-    <img src="https://discord.com/users/1312240218023264310" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/1312240218023264310?theme=dark&hideActivity=true&borderRadius=20px" alt="Discord Presence">
   </a>
 </p>
 

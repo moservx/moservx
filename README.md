@@ -1,109 +1,117 @@
-<p align="center" style="background:#000; padding: 30px 0;">
-  <svg width="100%" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
-    <defs>
-      <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-        <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="white" flood-opacity="0.35"/>
-      </filter>
-    </defs>
-    <text
-      x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
-      font-weight="900"
-      font-size="72"
-      fill="none"
-      stroke="#fff"
-      stroke-width="2"
-      filter="url(#shadow)"
-      style="letter-spacing: 8px;"
-    >
-      Moservx
-    </text>
-    <text
-      x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
-      font-weight="900"
-      font-size="72"
-      fill="#fff"
-      style="letter-spacing: 8px;"
-    >
-      Moservx
-    </text>
+<style>
+  body {
+    margin: 0;
+    background: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+  }
+  .wave-top {
+    position: relative;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+    line-height: 0;
+  }
+  .wave-top svg {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 120px;
+  }
+
+  .wave-bottom {
+    position: relative;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+    line-height: 0;
+    margin-top: 60px;
+  }
+  .wave-bottom svg {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 120px;
+  }
+
+  .content {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .title {
+    font-weight: 900;
+    font-size: 72px;
+    letter-spacing: 8px;
+    position: relative;
+    display: inline-block;
+    user-select: none;
+    color: #fff;
+    text-shadow:
+      0 0 6px #fff90d80,
+      0 0 10px #fff90d80;
+  }
+
+  .title-outline {
+    position: absolute;
+    top: 0; left: 0;
+    right: 0; bottom: 0;
+    -webkit-text-stroke: 2px #fff;
+    color: transparent;
+    z-index: -1;
+  }
+
+  .subtitle {
+    margin-top: 15px;
+    font-size: 24px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ddd;
+    user-select: none;
+  }
+
+  .tech-stack {
+    margin-top: 50px;
+  }
+  .tech-stack h3 {
+    font-weight: 600;
+    font-size: 26px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+  }
+  .badges img {
+    margin: 0 8px;
+    vertical-align: middle;
+  }
+</style>
+
+<div class="wave-top" aria-hidden="true">
+  <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path fill="#fff" fill-opacity="1" d="M0,64L48,85.3C96,107,192,149,288,149.3C384,149,480,107,576,90.7C672,75,768,85,864,101.3C960,117,1056,139,1152,149.3C1248,160,1344,160,1392,160L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
   </svg>
-</p>
-
-<div align="center" style="background:#000; padding: 20px 30px; border-radius: 10px; max-width: 600px; margin: 40px auto; box-shadow: 0 0 15px rgba(255,255,255,0.1);">
-  <svg width="100%" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
-    <rect width="600" height="60" fill="#000" rx="10" ry="10"/>
-    <text
-      id="typing-text"
-      x="20"
-      y="40"
-      font-family="'Courier New', Courier, monospace"
-      font-size="28"
-      fill="#fff"
-      style="letter-spacing: 2px;"
-    >
-      Developer • Backend • Discord Bot Creator
-    </text>
-    <rect x="20" y="15" width="10" height="30" fill="#fff" opacity="1">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
-
-  <hr style="border-color: #444; margin: 35px 0;" />
-
-  <h3 style="color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; margin-bottom: 15px;">
-    🛠️ Tech Stack
-  </h3>
-
-  <span>
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </span>
-
-  <hr style="border-color: #444; margin: 40px 0;" />
-
-  <h3 style="color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; margin-bottom: 15px;">
-    📡 Live Discord Status
-  </h3>
-
-  <a href="https://discord.com/users/1312240218023264310" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 20px; overflow: hidden; box-shadow: 0 0 20px rgba(255,255,255,0.2);">
-    <img
-      src="https://lanyard.cnrad.dev/api/1312240218023264310?bg=000000&borderRadius=15px"
-      alt="Discord Presence"
-      style="border-radius: 15px; display: block;"
-      width="300"
-      height="100"
-      loading="lazy"
-    />
-  </a>
 </div>
 
-<p align="center" style="margin-top: 70px; background:#000; padding: 20px 0;">
-  <svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
-    <text
-      x="50%" y="50%"
-      dominant-baseline="middle" text-anchor="middle"
-      font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
-      font-size="28"
-      fill="none"
-      stroke="#fff"
-      stroke-width="0.9"
-      font-style="italic"
-      letter-spacing="1.5px"
-    >
-      "Code less. Create more." – Moservx
-    </text>
-    <text
-      x="50%" y="50%"
-      dominant-baseline="middle" text-anchor="middle"
-      font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
-      font-size="28"
-      fill="#fff"
-      font-style="italic"
-      letter-spacing="1.5px"
-    >
-      "Code less. Create more." – Moservx
-    </text>
+<div class="content" role="main" aria-label="Moservx introduction">
+  <div style="position: relative; display: inline-block;">
+    <span class="title">Moservx Moservx</span>
+    <span class="title-outline" aria-hidden="true">Moservx Moservx</span>
+  </div>
+  <p class="subtitle">Developer • Backend • Discord Bot Creator</p>
+
+  <div class="tech-stack" aria-label="Tech stack">
+    <h3>Tech Stack</h3>
+    <div class="badges">
+      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </div>
+  </div>
+</div>
+
+<div class="wave-bottom" aria-hidden="true">
+  <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" style="transform: rotate(180deg);">
+    <path fill="#000" fill-opacity="1" d="M0,64L48,85.3C96,107,192,149,288,149.3C384,149,480,107,576,90.7C672,75,768,85,864,101.3C960,117,1056,139,1152,149.3C1248,160,1344,160,1392,160L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
   </svg>
-</p>
+</div>

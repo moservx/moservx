@@ -1,16 +1,12 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff" />
 
-<!-- Onda branca topo -->
-![Onda branca](https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kavoon&weight=700&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+eu+sou+Moservx)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kavoon&weight=700&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+eu+sou+Moservx)](https://git.io/typing-svg)
+<p align="center">🛠️ Tech Stack</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white)
-
-<!-- Onda preta base -->
-![Onda preta](https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" />

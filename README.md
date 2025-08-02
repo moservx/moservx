@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=F7F7F7&center=true&width=500&height=70&lines=Ol%C3%A1%2C+eu+sou+Moservx;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Moservx;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 <p align="center">🛠️ Tech Stack</p>

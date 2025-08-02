@@ -12,4 +12,6 @@
 
 ##
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1312240218023264310?theme=dark&hideActivity=true&borderRadius=20px)](https://discord.com/users/1312240218023264310)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" />

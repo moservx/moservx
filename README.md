@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- Onda branca topo -->
 ![Onda branca](https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff)
 
@@ -10,3 +12,5 @@
 
 <!-- Onda preta base -->
 ![Onda preta](https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer)
+
+</div>

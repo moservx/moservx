@@ -1,5 +1,5 @@
 <!-- Onda branca topo -->
-![Onda branca](https://capsule-render.vercel.app/api?type=waving&height=300&color=ffffff)
+![Onda branca](https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff)
 
 # 👋 Olá, eu sou Moservx
 
@@ -13,4 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 <!-- Onda preta base -->
-![Onda preta](https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&section=footer)
+![Onda preta](https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer)

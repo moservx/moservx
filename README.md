@@ -1,7 +1,7 @@
 <!-- Onda branca topo -->
 ![Onda branca](https://capsule-render.vercel.app/api?type=waving&height=129&color=ffffff)
 
-# 👋 Olá, eu sou Moservx
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kavoon&weight=700&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+eu+sou+Moservx)](https://git.io/typing-svg)
 
 **Desenvolvedor de bots Discord** focado em criar soluções eficientes e personalizadas.
 
